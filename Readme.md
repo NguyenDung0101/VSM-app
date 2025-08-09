@@ -23,10 +23,7 @@ Hiện tại dự án đang ở **giai đoạn lập kế hoạch** và sẽ ph�
 - **Google & Facebook SDK** – Đăng nhập mạng xã hội.
 
 ### **Backend** (sẽ kết nối sau)
-- **NestJS / Node.js** – Backend API.
-- **PostgreSQL / MongoDB** – Lưu trữ dữ liệu người dùng & hoạt động chạy bộ.
-- **Prisma ORM** – Quản lý database.
-- **Auth JWT** – Xác thực người dùng.
+
 
 ---
 
